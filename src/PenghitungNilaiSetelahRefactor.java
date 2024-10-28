@@ -61,6 +61,7 @@ public class PenghitungNilaiSetelahRefactor {
 
     private static int getNilaiSiswa(int siswaKe) {
         System.out.print("Masukkan nilai siswa ke-" + siswaKe + ": ");
+        System.out.print("Masukkan nilai siswi ke-" + siswaKe + ": ");git
         return scanner.nextInt();
     }
 
